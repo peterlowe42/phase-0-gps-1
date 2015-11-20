@@ -1,9 +1,9 @@
 # This is our **Awesome Page**!
 
-## *Pete* and *Eddie* made it.
+## *Pete* more conclifts and *Eddie* made it.
 
 ### Because they are the best
 
-Here is the link to our repo: [Our Repo!](https://github.com/peterlowe42/phase-0-gps-1)
+Here is tons of conflict the link to our repo: [Our Repo!](https://github.com/peterlowe42/phase-0-gps-1)
 
-Our screenshot: ![screen shot](/screen.png)
+Our LOTS AND LOTS OF CONFLICTS screenshot: ![screen shot](/screen.png)
